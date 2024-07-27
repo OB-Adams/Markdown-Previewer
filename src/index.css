@@ -56,6 +56,17 @@ body {
   overflow-y: auto;
 }
 
+#me {
+  font-family: monospace;
+  text-align: center;
+  color: white;
+}
+
+#me a {
+  text-decoration: none;
+  color: white;
+}
+
 img {
   width: 100%;
   max-width: 30%;
